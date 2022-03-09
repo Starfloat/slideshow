@@ -3,10 +3,9 @@ div {
   height: 192px;
   display: block;
 }
-/* img {
-  width: 200px;
-  height: 94px;
-} */
+img {
+  width: 190px;
+} 
 table {
   border-style: dashed;
 }
