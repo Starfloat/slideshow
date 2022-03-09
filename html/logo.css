@@ -3,10 +3,10 @@ div {
   height: 192px;
   display: block;
 }
-img {
+/* img {
   width: 200px;
   height: 94px;
-}
+} */
 table {
   border-style: dotted;
 }
